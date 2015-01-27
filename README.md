@@ -31,9 +31,6 @@ TODO
 * Handle properly partially closed trades
 * Maybe in the future: Copy trades over the network via 0MQ library (http://www.zeromq.org) - see the idea: http://codebase.mql4.com/7147
 
-Other
------
 
-You might be interested in "auto pilot" trading at http://copytrade.zulutrade.com/ - just copy trades from the best performed traders into your trading platform and earn money
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=vobornik&url=https://github.com/vobornik/mt4-trade-copy&title=Free MT4 Trade Copier&language=&tags=github&category=software) 
+
